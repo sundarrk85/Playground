@@ -12,7 +12,7 @@ connection_string = (
 
 engine = create_engine(connection_string)
 
-query = "SELECT * FROM sys.tables"
+query = "SELECT * from Employee"
 
 df = pd.read_sql(query, engine)
 

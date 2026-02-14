@@ -1,0 +1,1 @@
+https://michael-fuchs-python.netlify.app/2021/03/27/how-to-connect-python-to-a-local-sql-server/
